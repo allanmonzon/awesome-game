@@ -1,3 +1,3 @@
-## Yo, I'm a Readme
+## Awesome-Game
 
-You should probably update me so people looking at your code have an idea what it is being used for :)
+A turn based fighting game.
